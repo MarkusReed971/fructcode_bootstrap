@@ -1,0 +1,32 @@
+body {
+    background-color: #333;
+}
+
+input, span {
+    font-size: 20px;
+}
+
+.container {
+    width: 500px;
+    margin: 100px auto;
+}
+
+#input, #button {
+    background-color: #444;
+    border: #444 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    color: #cfcfcf;
+    outline: none;
+    display: block;
+    margin: 20px 0;
+}
+
+#button {
+    padding: 4px 12px;
+}
+
+#text {
+    color: #cfcfcf;
+    font-size: 40px;
+}
